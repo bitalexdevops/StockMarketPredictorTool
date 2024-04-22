@@ -1,4 +1,4 @@
-# **Stock Market Prediction Model**
+# **Stock Market Predictor Ultimate**
 
 This repository contains Python code for predicting stock market
 movements using machine learning techniques. The code utilizes the
